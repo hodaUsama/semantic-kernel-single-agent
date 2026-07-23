@@ -19,7 +19,9 @@ A single AI agent built with **Microsoft Semantic Kernel** and **Azure OpenAI** 
 
 ## Architecture
 
-![Architecture](architecture.png)
+<p align="center">
+  <img src="1.png" alt="Architecture" width="650">
+</p>
 
 ---
 
@@ -120,25 +122,9 @@ The agent performs the following steps automatically:
 
 ## Sample Output
 
-```text
-USER REQUEST
-
-↓
-
-DeviceSupport.get_device_information()
-
-↓
-
-DeviceSupport.get_recent_updates()
-
-↓
-
-DeviceSupport.create_support_ticket()
-
-↓
-
-IT Support Agent Response
-```
+<p align="center">
+  <img src="2.png" alt="Architecture" width="650">
+</p>
 
 ---
 
