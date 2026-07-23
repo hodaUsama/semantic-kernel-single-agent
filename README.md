@@ -20,7 +20,7 @@ A single AI agent built with **Microsoft Semantic Kernel** and **Azure OpenAI** 
 ## Architecture
 
 <p align="center">
-  <img src="1.png" alt="Architecture" width="650">
+  <img src="docs/Architecture.png" alt="Architecture" width="650">
 </p>
 
 ---
@@ -123,7 +123,7 @@ The agent performs the following steps automatically:
 ## Sample Output
 
 <p align="center">
-  <img src="2.png" alt="Architecture" width="650">
+  <img src="docs/workflow.png" alt="Architecture" width="650">
 </p>
 
 ---
