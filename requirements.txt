@@ -1,0 +1,2 @@
+
+pip show semantic-kernel openai python-dotenv
